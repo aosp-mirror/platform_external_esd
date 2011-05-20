@@ -1,0 +1,8 @@
+Change-Id: I250e7f8f32d3e3879e80e9e1e67ff02e42d1af59
+Code-Review+2: Jean-Baptiste Queru <jbq@google.com>
+Verified+1: Jean-Baptiste Queru <jbq@google.com>
+Submitted-by: Jean-Baptiste Queru <jbq@google.com>
+Submitted-at: Wed, 18 Mar 2009 17:57:32 -0700
+Reviewed-on: https://review.source.android.com/9262
+Project: platform/external/esd
+Branch: refs/heads/master
